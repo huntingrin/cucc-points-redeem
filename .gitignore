@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+/runtime/
+/trials/
+/research/
+/transaction.json
+/transaction.json.lock

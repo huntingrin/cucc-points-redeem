@@ -1,0 +1,4 @@
+interface:
+  display_name: "联通积分兑换"
+  short_description: "先登录查询积分，再选流量包、语音包或影音组合，自动代办并核对兑换结果"
+  default_prompt: "用 $cucc-points-redeem 登录联通积分商城，查我的积分并列出可选的流量包、语音包和影音组合，等我选择后再兑换。"
